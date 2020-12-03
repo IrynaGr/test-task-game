@@ -1,0 +1,14 @@
+*:disabled {
+  cursor: not-allowed;
+  background-color: #cfd8dc;
+}
+
+.app {
+  font-size: 16px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Fira Sans';
+  font-weight: 300;
+}

@@ -1,0 +1,9 @@
+.game {
+  min-height: 100%;
+  max-height: fit-content;
+  padding: 1.5em 0;
+  display: flex;
+  flex-flow: column nowrap;
+  align-self: stretch;
+  border: 2px solid #e9e9ec;
+}
